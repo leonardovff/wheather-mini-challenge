@@ -47,6 +47,6 @@ const challenge = async(
 };
 
 challenge({
-    start: '08:00:00',
-    end: '18:00:00'
+    start: process.argv[2] ?  process.argv[2] : '08:00:00',
+    end: process.argv[3] ?  process.argv[3] : '18:00:00'
 });

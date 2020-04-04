@@ -1,8 +1,8 @@
-## Usage
+## Uso
 
 Rode essa aplicação diretamente no terminal do seu computador
 
-### Run
+### Instruções
 
 1. Clone o projeto `git clone https://github.com/leonardovff/wheather-mini-challenge`
 2. Abra o terminal do seu computador (cmd/bash...) na pasta do projeto

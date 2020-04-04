@@ -11,7 +11,7 @@ Rode essa aplicação diretamente no terminal do seu computador
 
 ## Observações:
 
-1. Como talvez a possibilidade de chover pela noite não atrapalhe os planos de ir a praia pela manhã ou tarde, opitei por fazer essa parte de horário configurável. 
+1. Como talvez a possibilidade de chover pela noite não atrapalhe os planos de ir a praia pela manhã ou tarde, optei por fazer essa parte de horário configurável. 
 2. Setei como padrão o horário de 6:00 até 18:00.
 3. Você pode alterar o valor passando parâmetros para o node:
 ```bash

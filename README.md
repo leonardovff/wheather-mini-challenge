@@ -5,8 +5,9 @@ Rode essa aplicação diretamente no terminal do seu computador
 ### Instruções
 
 1. Clone o projeto `git clone https://github.com/leonardovff/wheather-mini-challenge`
-2. Abra o terminal do seu computador (cmd/bash...) na pasta do projeto
-3. Rode `node challenge` ou `npm start`
+2. Abra o terminal do seu computador (cmd/bash...) na pasta do projetoe`
+3. Rode `npm install`
+4. Rode `node challenge` ou `npm start`
 
 
 ## Observações:
